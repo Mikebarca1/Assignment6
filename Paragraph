@@ -1,0 +1,6 @@
+The dataset that I chose to use from kaggle was Airlines Traffic Passenger Statistics. The dataset contained information on air traffic 
+passenger statistics by each airline. The data includes the number of passengers,the operating airline, the published airline, 
+the geographic region,the activity type code, the price category code, the terminal, the boarding area, and the year and month of the flight. 
+After I imported the file to notebook, I used many Dataframe functions from pandas, and then I made a new column.
+Then i used matplotlib.pyplot and plotly to build 2 visualtions. The first visualization was a correlation matrix and the second one was a bar chart. 
+The question that i asked was "What is the count of trips taken within a month?". the answer to that question was provided in the bar chart.
